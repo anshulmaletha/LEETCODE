@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anshulmaletha/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2942-find-words-containing-character](https://github.com/anshulmaletha/LEETCODE/tree/master/2942-find-words-containing-character) |
 ## String
 |  |
@@ -19,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anshulmaletha/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anshulmaletha/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+## Greedy
+|  |
+| ------- |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anshulmaletha/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 <!---LeetCode Topics End-->
