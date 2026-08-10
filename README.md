@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-sum-of-even-numbers-after-queries](https://github.com/anshulmaletha/LEETCODE/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [2942-find-words-containing-character](https://github.com/anshulmaletha/LEETCODE/tree/master/2942-find-words-containing-character) |
 | [3819-rotate-non-negative-elements](https://github.com/anshulmaletha/LEETCODE/tree/master/3819-rotate-non-negative-elements) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/anshulmaletha/LEETCODE/tree/master/3847-find-the-score-difference-in-a-game) |
 ## String
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-sum-of-even-numbers-after-queries](https://github.com/anshulmaletha/LEETCODE/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/anshulmaletha/LEETCODE/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3819-rotate-non-negative-elements](https://github.com/anshulmaletha/LEETCODE/tree/master/3819-rotate-non-negative-elements) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/anshulmaletha/LEETCODE/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Number Theory
 |  |
 | ------- |
