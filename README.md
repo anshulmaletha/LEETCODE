@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/anshulmaletha/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anshulmaletha/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/anshulmaletha/LEETCODE/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [2109-adding-spaces-to-a-string](https://github.com/anshulmaletha/LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
 | [2942-find-words-containing-character](https://github.com/anshulmaletha/LEETCODE/tree/master/2942-find-words-containing-character) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/anshulmaletha/LEETCODE/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3819-rotate-non-negative-elements](https://github.com/anshulmaletha/LEETCODE/tree/master/3819-rotate-non-negative-elements) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2109-adding-spaces-to-a-string](https://github.com/anshulmaletha/LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
 | [2942-find-words-containing-character](https://github.com/anshulmaletha/LEETCODE/tree/master/2942-find-words-containing-character) |
 ## Math
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/anshulmaletha/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/anshulmaletha/LEETCODE/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [2109-adding-spaces-to-a-string](https://github.com/anshulmaletha/LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
 | [2169-count-operations-to-obtain-zero](https://github.com/anshulmaletha/LEETCODE/tree/master/2169-count-operations-to-obtain-zero) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/anshulmaletha/LEETCODE/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/anshulmaletha/LEETCODE/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -68,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/anshulmaletha/LEETCODE/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [2109-adding-spaces-to-a-string](https://github.com/anshulmaletha/LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
 <!---LeetCode Topics End-->
