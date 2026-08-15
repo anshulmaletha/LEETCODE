@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/anshulmaletha/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0137-single-number-ii](https://github.com/anshulmaletha/LEETCODE/tree/master/0137-single-number-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anshulmaletha/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/anshulmaletha/LEETCODE/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [2109-adding-spaces-to-a-string](https://github.com/anshulmaletha/LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/anshulmaletha/LEETCODE/tree/master/0137-single-number-ii) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/anshulmaletha/LEETCODE/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Two Pointers
 |  |
