@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-get-maximum-in-generated-array](https://github.com/anshulmaletha/LEETCODE/tree/master/1646-get-maximum-in-generated-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/anshulmaletha/LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
 | [2942-find-words-containing-character](https://github.com/anshulmaletha/LEETCODE/tree/master/2942-find-words-containing-character) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/anshulmaletha/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/anshulmaletha/LEETCODE/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3819-rotate-non-negative-elements](https://github.com/anshulmaletha/LEETCODE/tree/master/3819-rotate-non-negative-elements) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/anshulmaletha/LEETCODE/tree/master/3847-find-the-score-difference-in-a-game) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/anshulmaletha/LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
 | [2169-count-operations-to-obtain-zero](https://github.com/anshulmaletha/LEETCODE/tree/master/2169-count-operations-to-obtain-zero) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/anshulmaletha/LEETCODE/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/anshulmaletha/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/anshulmaletha/LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/anshulmaletha/LEETCODE/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3819-rotate-non-negative-elements](https://github.com/anshulmaletha/LEETCODE/tree/master/3819-rotate-non-negative-elements) |
