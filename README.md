@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/anshulmaletha/LEETCODE/tree/master/3024-type-of-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anshulmaletha/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3516-find-closest-person](https://github.com/anshulmaletha/LEETCODE/tree/master/3516-find-closest-person) |
+| [3783-mirror-distance-of-an-integer](https://github.com/anshulmaletha/LEETCODE/tree/master/3783-mirror-distance-of-an-integer) |
 ## Enumeration
 |  |
 | ------- |
