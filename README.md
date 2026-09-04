@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/anshulmaletha/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0137-single-number-ii](https://github.com/anshulmaletha/LEETCODE/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshulmaletha/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/anshulmaletha/LEETCODE/tree/master/0162-find-peak-element) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anshulmaletha/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anshulmaletha/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/anshulmaletha/LEETCODE/tree/master/0985-sum-of-even-numbers-after-queries) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/anshulmaletha/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/anshulmaletha/LEETCODE/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshulmaletha/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/anshulmaletha/LEETCODE/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anshulmaletha/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshulmaletha/LEETCODE/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
