@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-get-maximum-in-generated-array](https://github.com/anshulmaletha/LEETCODE/tree/master/1646-get-maximum-in-generated-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/anshulmaletha/LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshulmaletha/LEETCODE/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/anshulmaletha/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/anshulmaletha/LEETCODE/tree/master/2942-find-words-containing-character) |
 | [3024-type-of-triangle](https://github.com/anshulmaletha/LEETCODE/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anshulmaletha/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/anshulmaletha/LEETCODE/tree/master/2427-number-of-common-factors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/anshulmaletha/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anshulmaletha/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
