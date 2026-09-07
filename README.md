@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/anshulmaletha/LEETCODE/tree/master/0172-factorial-trailing-zeroes) |
+| [0367-valid-perfect-square](https://github.com/anshulmaletha/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [2119-a-number-after-a-double-reversal](https://github.com/anshulmaletha/LEETCODE/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/anshulmaletha/LEETCODE/tree/master/2169-count-operations-to-obtain-zero) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/anshulmaletha/LEETCODE/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/anshulmaletha/LEETCODE/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshulmaletha/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/anshulmaletha/LEETCODE/tree/master/0162-find-peak-element) |
+| [0367-valid-perfect-square](https://github.com/anshulmaletha/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anshulmaletha/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshulmaletha/LEETCODE/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
