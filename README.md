@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/anshulmaletha/LEETCODE/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshulmaletha/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/anshulmaletha/LEETCODE/tree/master/0162-find-peak-element) |
+| [0219-contains-duplicate-ii](https://github.com/anshulmaletha/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anshulmaletha/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anshulmaletha/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/anshulmaletha/LEETCODE/tree/master/0875-koko-eating-bananas) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/anshulmaletha/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anshulmaletha/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshulmaletha/LEETCODE/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anshulmaletha/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/anshulmaletha/LEETCODE/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/anshulmaletha/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
