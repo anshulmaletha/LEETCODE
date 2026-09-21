@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshulmaletha/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/anshulmaletha/LEETCODE/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/anshulmaletha/LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anshulmaletha/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anshulmaletha/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anshulmaletha/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/anshulmaletha/LEETCODE/tree/master/0875-koko-eating-bananas) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/anshulmaletha/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anshulmaletha/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/anshulmaletha/LEETCODE/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/anshulmaletha/LEETCODE/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/anshulmaletha/LEETCODE/tree/master/0367-valid-perfect-square) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anshulmaletha/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anshulmaletha/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/anshulmaletha/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anshulmaletha/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anshulmaletha/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshulmaletha/LEETCODE/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2974-minimum-number-game](https://github.com/anshulmaletha/LEETCODE/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/anshulmaletha/LEETCODE/tree/master/3024-type-of-triangle) |
@@ -180,5 +184,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anshulmaletha/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2974-minimum-number-game](https://github.com/anshulmaletha/LEETCODE/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
