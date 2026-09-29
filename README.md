@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-sum-of-even-numbers-after-queries](https://github.com/anshulmaletha/LEETCODE/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anshulmaletha/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anshulmaletha/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/anshulmaletha/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anshulmaletha/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-get-maximum-in-generated-array](https://github.com/anshulmaletha/LEETCODE/tree/master/1646-get-maximum-in-generated-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/anshulmaletha/LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
@@ -132,12 +133,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/anshulmaletha/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/anshulmaletha/LEETCODE/tree/master/0125-valid-palindrome) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/anshulmaletha/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2109-adding-spaces-to-a-string](https://github.com/anshulmaletha/LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
 | [2396-strictly-palindromic-number](https://github.com/anshulmaletha/LEETCODE/tree/master/2396-strictly-palindromic-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/anshulmaletha/LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/anshulmaletha/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anshulmaletha/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshulmaletha/LEETCODE/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anshulmaletha/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/anshulmaletha/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anshulmaletha/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anshulmaletha/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/anshulmaletha/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anshulmaletha/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2187-minimum-time-to-complete-trips](https://github.com/anshulmaletha/LEETCODE/tree/master/2187-minimum-time-to-complete-trips) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshulmaletha/LEETCODE/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -163,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/anshulmaletha/LEETCODE/tree/master/0164-maximum-gap) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anshulmaletha/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/anshulmaletha/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshulmaletha/LEETCODE/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2974-minimum-number-game](https://github.com/anshulmaletha/LEETCODE/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/anshulmaletha/LEETCODE/tree/master/3024-type-of-triangle) |
