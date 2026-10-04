@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/anshulmaletha/LEETCODE/tree/master/0125-valid-palindrome) |
+| [0771-jewels-and-stones](https://github.com/anshulmaletha/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/anshulmaletha/LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anshulmaletha/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2109-adding-spaces-to-a-string](https://github.com/anshulmaletha/LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/anshulmaletha/LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0771-jewels-and-stones](https://github.com/anshulmaletha/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anshulmaletha/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anshulmaletha/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshulmaletha/LEETCODE/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
