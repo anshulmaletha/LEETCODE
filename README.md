@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/anshulmaletha/LEETCODE/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/anshulmaletha/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/anshulmaletha/LEETCODE/tree/master/0371-sum-of-two-integers) |
+| [0728-self-dividing-numbers](https://github.com/anshulmaletha/LEETCODE/tree/master/0728-self-dividing-numbers) |
 | [2119-a-number-after-a-double-reversal](https://github.com/anshulmaletha/LEETCODE/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/anshulmaletha/LEETCODE/tree/master/2169-count-operations-to-obtain-zero) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/anshulmaletha/LEETCODE/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
