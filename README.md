@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/anshulmaletha/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/anshulmaletha/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0728-self-dividing-numbers](https://github.com/anshulmaletha/LEETCODE/tree/master/0728-self-dividing-numbers) |
+| [1688-count-of-matches-in-tournament](https://github.com/anshulmaletha/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [2119-a-number-after-a-double-reversal](https://github.com/anshulmaletha/LEETCODE/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/anshulmaletha/LEETCODE/tree/master/2169-count-operations-to-obtain-zero) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/anshulmaletha/LEETCODE/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/anshulmaletha/LEETCODE/tree/master/0495-teemo-attacking) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/anshulmaletha/LEETCODE/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1646-get-maximum-in-generated-array](https://github.com/anshulmaletha/LEETCODE/tree/master/1646-get-maximum-in-generated-array) |
+| [1688-count-of-matches-in-tournament](https://github.com/anshulmaletha/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [2109-adding-spaces-to-a-string](https://github.com/anshulmaletha/LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
 | [2169-count-operations-to-obtain-zero](https://github.com/anshulmaletha/LEETCODE/tree/master/2169-count-operations-to-obtain-zero) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/anshulmaletha/LEETCODE/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
