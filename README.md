@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/anshulmaletha/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anshulmaletha/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-get-maximum-in-generated-array](https://github.com/anshulmaletha/LEETCODE/tree/master/1646-get-maximum-in-generated-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anshulmaletha/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/anshulmaletha/LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
 | [2187-minimum-time-to-complete-trips](https://github.com/anshulmaletha/LEETCODE/tree/master/2187-minimum-time-to-complete-trips) |
 | [2527-find-xor-beauty-of-array](https://github.com/anshulmaletha/LEETCODE/tree/master/2527-find-xor-beauty-of-array) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anshulmaletha/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anshulmaletha/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anshulmaletha/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anshulmaletha/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/anshulmaletha/LEETCODE/tree/master/2187-minimum-time-to-complete-trips) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshulmaletha/LEETCODE/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/anshulmaletha/LEETCODE/tree/master/0164-maximum-gap) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anshulmaletha/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anshulmaletha/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anshulmaletha/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshulmaletha/LEETCODE/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2974-minimum-number-game](https://github.com/anshulmaletha/LEETCODE/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/anshulmaletha/LEETCODE/tree/master/3024-type-of-triangle) |
