@@ -4,8 +4,7 @@ public:
         stack<int> st;
         int i = 0;
         while(i < tokens.size()){
-
-
+            
             if (tokens[i] != "+" && tokens[i] != "-" && tokens[i] != "*" && tokens[i] != "/") {
                         st.push(stoi(tokens[i]));
                         }
