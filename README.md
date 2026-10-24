@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/anshulmaletha/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3819-rotate-non-negative-elements](https://github.com/anshulmaletha/LEETCODE/tree/master/3819-rotate-non-negative-elements) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/anshulmaletha/LEETCODE/tree/master/3847-find-the-score-difference-in-a-game) |
+| [3909-compare-sums-of-bitonic-parts](https://github.com/anshulmaletha/LEETCODE/tree/master/3909-compare-sums-of-bitonic-parts) |
 ## String
 |  |
 | ------- |
