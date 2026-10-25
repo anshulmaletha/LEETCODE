@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/anshulmaletha/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anshulmaletha/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-get-maximum-in-generated-array](https://github.com/anshulmaletha/LEETCODE/tree/master/1646-get-maximum-in-generated-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/anshulmaletha/LEETCODE/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anshulmaletha/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/anshulmaletha/LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
 | [2187-minimum-time-to-complete-trips](https://github.com/anshulmaletha/LEETCODE/tree/master/2187-minimum-time-to-complete-trips) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/anshulmaletha/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/anshulmaletha/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anshulmaletha/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/anshulmaletha/LEETCODE/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-sum-of-even-numbers-after-queries](https://github.com/anshulmaletha/LEETCODE/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1646-get-maximum-in-generated-array](https://github.com/anshulmaletha/LEETCODE/tree/master/1646-get-maximum-in-generated-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/anshulmaletha/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/anshulmaletha/LEETCODE/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/anshulmaletha/LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
 | [2169-count-operations-to-obtain-zero](https://github.com/anshulmaletha/LEETCODE/tree/master/2169-count-operations-to-obtain-zero) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/anshulmaletha/LEETCODE/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
