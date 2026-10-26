@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3019-number-of-changing-keys](https://github.com/anshulmaletha/LEETCODE/tree/master/3019-number-of-changing-keys) |
 | [3498-reverse-degree-of-a-string](https://github.com/anshulmaletha/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/anshulmaletha/LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
+| [3941-password-strength](https://github.com/anshulmaletha/LEETCODE/tree/master/3941-password-strength) |
 ## Math
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anshulmaletha/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshulmaletha/LEETCODE/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anshulmaletha/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3941-password-strength](https://github.com/anshulmaletha/LEETCODE/tree/master/3941-password-strength) |
 ## Binary Search
 |  |
 | ------- |
