@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anshulmaletha/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/anshulmaletha/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0771-jewels-and-stones](https://github.com/anshulmaletha/LEETCODE/tree/master/0771-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/anshulmaletha/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/anshulmaletha/LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/anshulmaletha/LEETCODE/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anshulmaletha/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/anshulmaletha/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0495-teemo-attacking](https://github.com/anshulmaletha/LEETCODE/tree/master/0495-teemo-attacking) |
+| [0844-backspace-string-compare](https://github.com/anshulmaletha/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/anshulmaletha/LEETCODE/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1646-get-maximum-in-generated-array](https://github.com/anshulmaletha/LEETCODE/tree/master/1646-get-maximum-in-generated-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/anshulmaletha/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/anshulmaletha/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/anshulmaletha/LEETCODE/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/anshulmaletha/LEETCODE/tree/master/0125-valid-palindrome) |
+| [0844-backspace-string-compare](https://github.com/anshulmaletha/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anshulmaletha/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2109-adding-spaces-to-a-string](https://github.com/anshulmaletha/LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
 | [2396-strictly-palindromic-number](https://github.com/anshulmaletha/LEETCODE/tree/master/2396-strictly-palindromic-number) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/anshulmaletha/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anshulmaletha/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0844-backspace-string-compare](https://github.com/anshulmaletha/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/anshulmaletha/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
