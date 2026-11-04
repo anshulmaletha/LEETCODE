@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3819-rotate-non-negative-elements](https://github.com/anshulmaletha/LEETCODE/tree/master/3819-rotate-non-negative-elements) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/anshulmaletha/LEETCODE/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/anshulmaletha/LEETCODE/tree/master/3909-compare-sums-of-bitonic-parts) |
+| [3978-unique-middle-element](https://github.com/anshulmaletha/LEETCODE/tree/master/3978-unique-middle-element) |
 ## String
 |  |
 | ------- |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1704-determine-if-string-halves-are-alike](https://github.com/anshulmaletha/LEETCODE/tree/master/1704-determine-if-string-halves-are-alike) |
+| [3978-unique-middle-element](https://github.com/anshulmaletha/LEETCODE/tree/master/3978-unique-middle-element) |
 ## Divide and Conquer
 |  |
 | ------- |
