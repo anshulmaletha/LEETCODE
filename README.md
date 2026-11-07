@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/anshulmaletha/LEETCODE/tree/master/0190-reverse-bits) |
 | [0371-sum-of-two-integers](https://github.com/anshulmaletha/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [2527-find-xor-beauty-of-array](https://github.com/anshulmaletha/LEETCODE/tree/master/2527-find-xor-beauty-of-array) |
+| [2595-number-of-even-and-odd-bits](https://github.com/anshulmaletha/LEETCODE/tree/master/2595-number-of-even-and-odd-bits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/anshulmaletha/LEETCODE/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Two Pointers
 |  |
