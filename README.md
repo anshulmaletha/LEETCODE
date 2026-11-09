@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/anshulmaletha/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/anshulmaletha/LEETCODE/tree/master/0125-valid-palindrome) |
+| [0541-reverse-string-ii](https://github.com/anshulmaletha/LEETCODE/tree/master/0541-reverse-string-ii) |
 | [0771-jewels-and-stones](https://github.com/anshulmaletha/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/anshulmaletha/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/anshulmaletha/LEETCODE/tree/master/1108-defanging-an-ip-address) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/anshulmaletha/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/anshulmaletha/LEETCODE/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/anshulmaletha/LEETCODE/tree/master/0125-valid-palindrome) |
+| [0541-reverse-string-ii](https://github.com/anshulmaletha/LEETCODE/tree/master/0541-reverse-string-ii) |
 | [0844-backspace-string-compare](https://github.com/anshulmaletha/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anshulmaletha/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2109-adding-spaces-to-a-string](https://github.com/anshulmaletha/LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
