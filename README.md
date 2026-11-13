@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/anshulmaletha/LEETCODE/tree/master/0495-teemo-attacking) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anshulmaletha/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/anshulmaletha/LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0819-most-common-word](https://github.com/anshulmaletha/LEETCODE/tree/master/0819-most-common-word) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anshulmaletha/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/anshulmaletha/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/anshulmaletha/LEETCODE/tree/master/0985-sum-of-even-numbers-after-queries) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/anshulmaletha/LEETCODE/tree/master/0187-repeated-dna-sequences) |
 | [0541-reverse-string-ii](https://github.com/anshulmaletha/LEETCODE/tree/master/0541-reverse-string-ii) |
 | [0771-jewels-and-stones](https://github.com/anshulmaletha/LEETCODE/tree/master/0771-jewels-and-stones) |
+| [0819-most-common-word](https://github.com/anshulmaletha/LEETCODE/tree/master/0819-most-common-word) |
 | [0844-backspace-string-compare](https://github.com/anshulmaletha/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/anshulmaletha/LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/anshulmaletha/LEETCODE/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/anshulmaletha/LEETCODE/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/anshulmaletha/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0771-jewels-and-stones](https://github.com/anshulmaletha/LEETCODE/tree/master/0771-jewels-and-stones) |
+| [0819-most-common-word](https://github.com/anshulmaletha/LEETCODE/tree/master/0819-most-common-word) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anshulmaletha/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anshulmaletha/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshulmaletha/LEETCODE/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0819-most-common-word](https://github.com/anshulmaletha/LEETCODE/tree/master/0819-most-common-word) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/anshulmaletha/LEETCODE/tree/master/1704-determine-if-string-halves-are-alike) |
 | [3978-unique-middle-element](https://github.com/anshulmaletha/LEETCODE/tree/master/3978-unique-middle-element) |
 ## Divide and Conquer
