@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/anshulmaletha/LEETCODE/tree/master/2810-faulty-keyboard) |
 | [2942-find-words-containing-character](https://github.com/anshulmaletha/LEETCODE/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/anshulmaletha/LEETCODE/tree/master/3019-number-of-changing-keys) |
+| [3227-vowels-game-in-a-string](https://github.com/anshulmaletha/LEETCODE/tree/master/3227-vowels-game-in-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/anshulmaletha/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/anshulmaletha/LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
 | [3941-password-strength](https://github.com/anshulmaletha/LEETCODE/tree/master/3941-password-strength) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2544-alternating-digit-sum](https://github.com/anshulmaletha/LEETCODE/tree/master/2544-alternating-digit-sum) |
 | [3024-type-of-triangle](https://github.com/anshulmaletha/LEETCODE/tree/master/3024-type-of-triangle) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/anshulmaletha/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3227-vowels-game-in-a-string](https://github.com/anshulmaletha/LEETCODE/tree/master/3227-vowels-game-in-a-string) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/anshulmaletha/LEETCODE/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anshulmaletha/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3516-find-closest-person](https://github.com/anshulmaletha/LEETCODE/tree/master/3516-find-closest-person) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/anshulmaletha/LEETCODE/tree/master/2396-strictly-palindromic-number) |
+| [3227-vowels-game-in-a-string](https://github.com/anshulmaletha/LEETCODE/tree/master/3227-vowels-game-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -311,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/anshulmaletha/LEETCODE/tree/master/0187-repeated-dna-sequences) |
+## Game Theory
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/anshulmaletha/LEETCODE/tree/master/3227-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
