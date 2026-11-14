@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anshulmaletha/LEETCODE/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/anshulmaletha/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/anshulmaletha/LEETCODE/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3364-minimum-positive-sum-subarray](https://github.com/anshulmaletha/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anshulmaletha/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/anshulmaletha/LEETCODE/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/anshulmaletha/LEETCODE/tree/master/3701-compute-alternating-sum) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/anshulmaletha/LEETCODE/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/anshulmaletha/LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/anshulmaletha/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 ## Recursion
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/anshulmaletha/LEETCODE/tree/master/2485-find-the-pivot-integer) |
+| [3364-minimum-positive-sum-subarray](https://github.com/anshulmaletha/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 ## Brainteaser
 |  |
 | ------- |
