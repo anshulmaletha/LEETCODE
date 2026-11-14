@@ -7,8 +7,7 @@ public:
 
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
-                if (i != j && nums[i] + nums[j] == target &&
-                    nums[i] > nums[j]) {
+                if (i != j && nums[i] + nums[j] == target &&nums[i] > nums[j]) {
                     int product = nums[i] * nums[j];
 
                     if (product > maxi) {
