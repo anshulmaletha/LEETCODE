@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3819-rotate-non-negative-elements](https://github.com/anshulmaletha/LEETCODE/tree/master/3819-rotate-non-negative-elements) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/anshulmaletha/LEETCODE/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/anshulmaletha/LEETCODE/tree/master/3909-compare-sums-of-bitonic-parts) |
+| [3921-score-validator](https://github.com/anshulmaletha/LEETCODE/tree/master/3921-score-validator) |
 | [3978-unique-middle-element](https://github.com/anshulmaletha/LEETCODE/tree/master/3978-unique-middle-element) |
 ## String
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-vowels-game-in-a-string](https://github.com/anshulmaletha/LEETCODE/tree/master/3227-vowels-game-in-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/anshulmaletha/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/anshulmaletha/LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
+| [3921-score-validator](https://github.com/anshulmaletha/LEETCODE/tree/master/3921-score-validator) |
 | [3941-password-strength](https://github.com/anshulmaletha/LEETCODE/tree/master/3941-password-strength) |
 ## Math
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/anshulmaletha/LEETCODE/tree/master/3701-compute-alternating-sum) |
 | [3819-rotate-non-negative-elements](https://github.com/anshulmaletha/LEETCODE/tree/master/3819-rotate-non-negative-elements) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/anshulmaletha/LEETCODE/tree/master/3847-find-the-score-difference-in-a-game) |
+| [3921-score-validator](https://github.com/anshulmaletha/LEETCODE/tree/master/3921-score-validator) |
 ## Number Theory
 |  |
 | ------- |
