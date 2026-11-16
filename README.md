@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/anshulmaletha/LEETCODE/tree/master/0819-most-common-word) |
 | [0844-backspace-string-compare](https://github.com/anshulmaletha/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/anshulmaletha/LEETCODE/tree/master/1108-defanging-an-ip-address) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/anshulmaletha/LEETCODE/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/anshulmaletha/LEETCODE/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anshulmaletha/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2109-adding-spaces-to-a-string](https://github.com/anshulmaletha/LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/anshulmaletha/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anshulmaletha/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/anshulmaletha/LEETCODE/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshulmaletha/LEETCODE/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Matrix
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/anshulmaletha/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/anshulmaletha/LEETCODE/tree/master/0819-most-common-word) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anshulmaletha/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/anshulmaletha/LEETCODE/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anshulmaletha/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshulmaletha/LEETCODE/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anshulmaletha/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anshulmaletha/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/anshulmaletha/LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anshulmaletha/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/anshulmaletha/LEETCODE/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anshulmaletha/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshulmaletha/LEETCODE/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2974-minimum-number-game](https://github.com/anshulmaletha/LEETCODE/tree/master/2974-minimum-number-game) |
