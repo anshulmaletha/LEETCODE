@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-vowels-game-in-a-string](https://github.com/anshulmaletha/LEETCODE/tree/master/3227-vowels-game-in-a-string) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/anshulmaletha/LEETCODE/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anshulmaletha/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3492-maximum-containers-on-a-ship](https://github.com/anshulmaletha/LEETCODE/tree/master/3492-maximum-containers-on-a-ship) |
 | [3516-find-closest-person](https://github.com/anshulmaletha/LEETCODE/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anshulmaletha/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3783-mirror-distance-of-an-integer](https://github.com/anshulmaletha/LEETCODE/tree/master/3783-mirror-distance-of-an-integer) |
