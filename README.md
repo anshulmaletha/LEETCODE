@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/anshulmaletha/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/anshulmaletha/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/anshulmaletha/LEETCODE/tree/master/0187-repeated-dna-sequences) |
+| [0389-find-the-difference](https://github.com/anshulmaletha/LEETCODE/tree/master/0389-find-the-difference) |
 | [0541-reverse-string-ii](https://github.com/anshulmaletha/LEETCODE/tree/master/0541-reverse-string-ii) |
 | [0771-jewels-and-stones](https://github.com/anshulmaletha/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/anshulmaletha/LEETCODE/tree/master/0819-most-common-word) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/anshulmaletha/LEETCODE/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/anshulmaletha/LEETCODE/tree/master/0190-reverse-bits) |
 | [0371-sum-of-two-integers](https://github.com/anshulmaletha/LEETCODE/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/anshulmaletha/LEETCODE/tree/master/0389-find-the-difference) |
 | [2527-find-xor-beauty-of-array](https://github.com/anshulmaletha/LEETCODE/tree/master/2527-find-xor-beauty-of-array) |
 | [2595-number-of-even-and-odd-bits](https://github.com/anshulmaletha/LEETCODE/tree/master/2595-number-of-even-and-odd-bits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/anshulmaletha/LEETCODE/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/anshulmaletha/LEETCODE/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/anshulmaletha/LEETCODE/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/anshulmaletha/LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0389-find-the-difference](https://github.com/anshulmaletha/LEETCODE/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/anshulmaletha/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/anshulmaletha/LEETCODE/tree/master/0819-most-common-word) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anshulmaletha/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/anshulmaletha/LEETCODE/tree/master/0049-group-anagrams) |
 | [0164-maximum-gap](https://github.com/anshulmaletha/LEETCODE/tree/master/0164-maximum-gap) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anshulmaletha/LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/anshulmaletha/LEETCODE/tree/master/0389-find-the-difference) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/anshulmaletha/LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anshulmaletha/LEETCODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/anshulmaletha/LEETCODE/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
